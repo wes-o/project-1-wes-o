@@ -2,7 +2,6 @@
 
 ![Dashboard View](../images-for-readme/dashboard-no-data_React-App.png)
 
-
 ## _N.B_
 
 - For local database testing please see the `ui-plus-server` branch of this repository
