@@ -1,31 +1,35 @@
 # user-expense-reimbursement-ui
 
+![Dashboard View](../images-for-readme/dashboard-no-data_React-App.png)
+
+
 ## _N.B_
 
 - For local database testing please see the `ui-plus-server` branch of this repository
 
-> This branch has `<json-server>` to host a small json file for local testing purposes. It's a handy tool.
+> The branch has `<json-server>` to host a small json file for local testing purposes. It's a handy tool.
+
 To run:
 
-1 Switch over to the `ui-plus-server` branch
+1 Switch over to the 'ui-plus-server' branch
 
 ```bash
 git checkout ui-plus-server
 ```
 
-2 Download additional json-server dependency for this repository
+2 Download additional `<json-server>` dependency for this repository
 
 ```bash
 npm install
 ```
 
-3 Run the json-server.json in a separate process. Easiest method is to open another bash shell :shell:
+3 Run the `json-server.json` in a separate process. Easiest method is to open another bash shell :shell:
 
 ```bash
 npm run server
 ```
 
-4 The server will be running on _port_:5000. Then, change to the original bash shell, build, and start the React app.
+4 The server will be running on _port_:5000. Then, change back to the original bash shell, build, and start the React app!
 
 ```bash
 npm run build && npm run start
