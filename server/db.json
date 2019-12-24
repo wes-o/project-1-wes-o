@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "User_1",
+      "last_name": "User_1 Last Name",
+      "email": "user1@mail.com",
+      "phone": "2223456789",
+      "address": "User_1 Address",
+      "description": "User_1 description"
+    },
+    {
+      "id": 2,
+      "first_name": "User_2",
+      "last_name": "User_2 Last Name",
+      "email": "user2@mail.com",
+      "phone": "2223459876",
+      "address": "user_2 Address",
+      "description": "user_2 description"
+    },
+    {
+      "id": 3,
+      "first_name": "gh",
+      "last_name": "ld Last Name",
+      "email": "gh@test.org",
+      "phone": "2223456789",
+      "address": "10 Name Street",
+      "description": "A new user"
+    },
+    {
+      "id": 4,
+      "first_name": "gh",
+      "last_name": "ld Last",
+      "email": "gh@test.org",
+      "phone": "2223456789",
+      "address": "10 Name Street",
+      "description": "Another user"
+    },
+    {
+      "first_name": "gh",
+      "last_name": "ld Last",
+      "email": "gh@test.org",
+      "phone": "2223456789",
+      "address": "30 Name Street",
+      "description": "Another 3 User",
+      "id": 5
+    }
+  ],
+  "reimbursements": [
+    {
+      "reimbursement_id": 1,
+      "first_name": "User_1",
+      "last_name": "User_1 Last Name",
+      "date_submitted": "01/01/2019",
+      "date_resolved": " ",
+      "status": "Submitted",
+      "description": "User_1 description",
+      "reimbursement_type": "1"
+    },
+    {
+      "reimbursement_id": 2,
+      "first_name": "User_2",
+      "last_name": "User_2 Last Name",
+      "date_submitted": "01/07/2019",
+      "date_resolved": " ",
+      "status": "Submitted",
+      "description": "User_2 description",
+      "reimbursement_type": "1"
+    }
+  ]
+}
